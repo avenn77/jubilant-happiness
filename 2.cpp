@@ -1,5 +1,5 @@
-#include <iostream>
+#include <iostream> // library to PRINT
 
-int main(){
+int main(){ // THE function
     cout << "Second CPP here!" << endl;
 }
