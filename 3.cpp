@@ -1,5 +1,5 @@
-#include <iostream> // basic input output library
+#include <iostream>
 
 int main(){
-    cout << "Third coming right at you! But this time i'm changed :))" << endl;
+    cout << "Third coming right at you!" << endl;
 }
