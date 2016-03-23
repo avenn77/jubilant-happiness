@@ -1,5 +1,5 @@
-#include <iostream> // I will add some text here for fifth commit 
+#include <iostream> // library to PRINT
 
-int main(){ // nothing important here just my main function
+int main(){ // THE function
     cout << "Second CPP here!" << endl;
 }
